@@ -13,7 +13,7 @@ while count < 3:
         fruits.append(fruit)
         count += 1
     else:
-        print("⚠️ Please enter a valid fruit name.")
+        print(" Please enter a valid fruit name.")
 
 # 2️ Using enumerate() to display indexed fruit list
 print("\n Your Fruits (with index):")
